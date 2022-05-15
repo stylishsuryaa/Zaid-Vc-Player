@@ -1,6 +1,6 @@
 <h2 align="centre"> 𝐌𝐮𝐬𝐢𝐜+𝐑𝐚𝐢𝐝 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭🔥</h2>
 
-### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### CR 7 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
 <p align="center">
@@ -78,7 +78,7 @@
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/97e6de197eba98d2caba5.jpg" align="right" width="350" height="700"/>
+<img src="https://telegra.ph/file/1ba30d3fabf8eeed99f96.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
@@ -110,7 +110,7 @@
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy on Okteto!</h4>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ITZ-ZAID/Zaid-Vc-Player"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/stylishsuryaa/Zaid-Vc-Player"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/ITZ-ZAID/Zaid-Vc-Player), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
